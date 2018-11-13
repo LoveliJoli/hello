@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HelloWorld
+comment0.text=\n\ Say\ Hello\n\ @author\ Enjoli\ Rogers\n\ @version\ 2018.11.12\n
+comment1.params=
+comment1.target=void\ sayHello()
+comment1.text=\n\ Say\ hello\ to\ the\ world\n
+numComments=2
